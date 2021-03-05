@@ -18,8 +18,8 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PA0-wU-UOh">
                                 <rect key="frame" x="16" y="20" width="288" height="499"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <mutableString key="text">Здравствуйте, меня зовут Сергей, вот уже 9 лет работаю в сфере IT, за время работы занимался различными проектами от построения распределенных систем связи на базе АТС AVAYA до построения распретеленной транспортной магистральной сети на базе мультиплексоров ABB FOX515. Хорошо знаю массу различного оборудования связи. 
-В данный момент решил сменить направление и получить новую интересную для меня профессию в сфере IOS разработки. В активном поиске команды, стартапа либо позиции Junior в среде разработки на swift. Пишите пообщаемся!</mutableString>
+                                <mutableString key="text">Здравствуйте, меня зовут Сергей. Вот уже 9 лет работаю в сфере IT. За время работы я занимался различными проектами от построения распределенных систем связи на базе АТС AVAYA до построения распретеленной транспортной магистральной сети на базе мультиплексоров ABB FOX515. Я Хорошо знаю массу различного оборудования связи. 
+В данный момент решил сменить направление и получить новую интересную для меня профессию в сфере IOS разработки. Сейчас я в активном поиске команды, стартапа либо позиции Junior в среде разработки на swift. Пишите пообщаемся!</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
